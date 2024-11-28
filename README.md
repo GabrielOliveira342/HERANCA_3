@@ -37,4 +37,16 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Gabriel Alberto de Oliveira ** - *Trabalho Inicial* - HERANÇA 3 
+* **Gabriel Alberto de Oliveira ** - *Trabalho Inicial* - HERANÇA 3
+
+* ![Captura de tela 2024-11-27 220540](https://github.com/user-attachments/assets/640e3236-2154-44fa-a15d-cf3d8310b766)
+
+* ![Captura de tela 2024-11-27 220632](https://github.com/user-attachments/assets/74422a0e-40b7-4aeb-9b19-680338848ce8)
+* ![Captura de tela 2024-11-27 220655](https://github.com/user-attachments/assets/be9aafdf-48e1-4207-8b70-100d328a8358)
+* ![Captura de tela 2024-11-27 220722](https://github.com/user-attachments/assets/9d0f2999-874e-437d-bc5c-ee74b6060d98)
+* ![Captura de tela 2024-11-27 220741](https://github.com/user-attachments/assets/8831e084-ca68-4bce-a76d-fd65ede69376)
+* ![Captura de tela 2024-11-27 220823](https://github.com/user-attachments/assets/4d671148-c83a-48fb-9eb0-2672ad73321a)
+
+
+
+
