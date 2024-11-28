@@ -1,4 +1,4 @@
-# HERANÇA 3 
+# SISTEMA DE VEICULOS
 
 Esse projeto trabalha hernaça e encapsulamento e apresenta um método para utlizar o INSERT 
 
@@ -37,7 +37,7 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Gabriel Alberto de Oliveira ** - *Trabalho Inicial* - HERANÇA 3
+* **Gabriel Alberto de Oliveira ** - *Trabalho Inicial* - SISTEMA DE VEICULOS 
 
 * ![Captura de tela 2024-11-27 220540](https://github.com/user-attachments/assets/640e3236-2154-44fa-a15d-cf3d8310b766)
 
