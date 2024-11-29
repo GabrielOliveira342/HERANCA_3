@@ -47,6 +47,9 @@ Ferramentas utilizadas e bibliotecas
 * ![Captura de tela 2024-11-27 220741](https://github.com/user-attachments/assets/8831e084-ca68-4bce-a76d-fd65ede69376)
 * ![Captura de tela 2024-11-27 220823](https://github.com/user-attachments/assets/4d671148-c83a-48fb-9eb0-2672ad73321a)
 
+* ![Captura de tela 2024-11-29 195817](https://github.com/user-attachments/assets/27c715ee-974b-40d2-afe8-cdf3c8eaad7b)
+
+
 
 
 
